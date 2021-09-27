@@ -1,0 +1,2 @@
+#define MYFLUIDENGINE_API __declspec(dllexport)
+#define MYFLUIDENGINE_API __declspec(dllimport)
